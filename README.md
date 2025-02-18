@@ -1,4 +1,4 @@
-[![Python CI](https://github.com/RishitLaddha/session20/actions/workflows/test.yml/badge.svg)](https://github.com/RishitLaddha/session20/actions/workflows/test.yml)
+[![Python CI](https://github.com/RishitLaddha/session20/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/RishitLaddha/session20/actions/workflows/test.yml)
 
 <img width="1225" alt="Screenshot 2025-02-18 at 23 43 24" src="https://github.com/user-attachments/assets/99c366f4-0a85-483e-808a-3165c695c2ae" />
 
